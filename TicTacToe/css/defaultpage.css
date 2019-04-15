@@ -1,0 +1,15 @@
+﻿body {
+      background-image: url("/images/bkg3.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: left;
+    color: #f5f5dc;
+      height: 100%;
+
+}
+
+#default_heading {
+    text-align: center;
+    color: #f5f5dc;
+
+}
